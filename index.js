@@ -45,4 +45,4 @@ function isUserAuthorized(req, secretKey , tokenName) {
 
  
   
-  module.exports = { authMiddleware};
+  module.exports = {isUserAuthorized, authMiddleware};
