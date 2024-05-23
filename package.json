@@ -1,0 +1,26 @@
+{
+  "name": "is-user-authorized",
+  "version": "1.0.0",
+  "description": "An npm package to check user is authorized or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Addiii111/is-user-authorized.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Aditya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Addiii111/is-user-authorized/issues"
+  },
+  "homepage": "https://github.com/Addiii111/is-user-authorized#readme",
+  "dependencies": {
+    "cookie": "^0.6.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
