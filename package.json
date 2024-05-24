@@ -1,6 +1,6 @@
 {
   "name": "is-user-authorized",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package to check user is authorized or not.",
   "main": "index.js",
   "scripts": {
