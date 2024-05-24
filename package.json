@@ -1,7 +1,7 @@
 {
   "name": "is-user-authorized",
   "version": "1.0.1",
-  "description": "An npm package to check user is authorized or not.",
+  "description": "An npm package to check weather a logged-in user is authorized or not.",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Addiii111/is-user-authorized.git"
   },
   "keywords": [
-    "npm"
+    "npm", "authorization","authentication","express"
   ],
   "author": "Aditya",
   "license": "Apache-2.0",
