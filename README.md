@@ -1,2 +1,2 @@
 # is-user-authorized
-An npm package to check user is authorized or not.
+is-user-authorized is a simple npm package designed to verify if a logged-in user is authorized based on a token stored in cookies. This package is particularly useful for Node.js applications using JWT (JSON Web Tokens) for authentication. It provides an easy-to-use function to validate the token and ensure the user is authorized to access protected resources.
